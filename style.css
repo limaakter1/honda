@@ -1,0 +1,12 @@
+.header-bg {
+  background-color: #264653;
+}
+.btn-purchase {
+  background-image: linear-gradient(orangered, rgb(226, 102, 57));
+}
+.color-client {
+  color: rgb(235, 120, 78);
+}
+.icon {
+  color: rgb(235, 120, 78);
+}
